@@ -2,8 +2,7 @@
 
 📚 Atualmente estudo Business Intelligence e Python para Análise de Dados    
 💻 Aprendendo Python com o curso gratuito da Data Science Academy  
-💻 Tenho interesse em desenvolvimento WEB e conhecimentos básicos em Js, HTML 5 e CSS  
-
+💻 Tenho interesse e conhecimentos básicos em desenvolvimento WEB
 <div align="center">
   <a href="https://github.com/guuisouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guuisouza&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
