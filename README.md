@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Guilherme Souza e seja bem vindo ao meu GitHub
 
 📚 Atualmente estudo Business Intelligence e Python para Análise de Dados    
-💻 Aprendendo Python com o curso gratuito da Data Sciense Academy  
+💻 Aprendendo Python com o curso gratuito da Data Science Academy  
 💻 Tenho interesse em desenvolvimento WEB e conhecimentos básicos em Js, HTML 5 e CSS  
 
 <div align="center">
