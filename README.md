@@ -2,7 +2,7 @@
 
 📚 Atualmente estudo programação voltada a WEB e também programação orientada a objetos em linguagem Java.  
 💻 Busco aprender Java para construção de futuras API'S e React para o desenvolvimento Web.  
-💻 Tenho interesse e conhecimentos básicos em desenvolvimento WEB, Java, Spring Boot (JPA), Banco de dados (SQL server & Postgres) e Análise de Dados, porém meus projetos são privados aqui.  
+💻 Tenho interesse e conhecimentos básicos em desenvolvimento front-end(Js, Bootstrap, html5, css, React (Hooks, Ciclo de vida) e back-end (Java, Spring Boot      (JPA), Banco de dados (SQL server & Postgres)) e Análise de Dados, porém meus projetos são privados aqui.  
 <div align="center">
   <a href="https://github.com/guuisouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guuisouza&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
