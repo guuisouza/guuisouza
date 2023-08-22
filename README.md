@@ -1,7 +1,7 @@
 ## Olá! Me chamo Guilherme Souza e seja bem vindo ao meu GitHub
 
-📚 Atualmente estudo programação voltada a Web.  
-💻 Busco aprimorar meus conhecimentos em JavaScript e React na faculdade e por fora estudo Análise de Dados/PowerBI.      
+📚 Atualmente estudo python visando entrar na área de Analise de Dados no futuro.  
+💻 Busco aprimorar meus conhecimentos em JavaScript e React na faculdade e por fora estudo Análise de Dados/PowerBI juntamente com Python e conceitos de Big Data      
 💻 Tenho interesse e conhecimentos básicos em desenvolvimento front-end(Js, html5, css, React (Hooks, Ciclo de vida) e back-end (MySQL/Postgres, Javascript + NodeJS utilizando o Express) e Análise de Dados.    
 <div align="center">
   <a href="https://github.com/guuisouza">
