@@ -1,8 +1,7 @@
 ## Olá! Me chamo Guilherme Souza e seja bem vindo ao meu GitHub
 
 📚 Graduado em Analise e Desenvolvimento de Sistemas e atualmente cursando Desenvolvimento de Software Multiplataforma.    
-📚 Busco minha primeira experiência como desenvolvedor, gosto de novos desafios e meus repositórios possuem projetos em JavaScript, Java e Go, atualmente busco aprimorar meus conhecimentos em Java.    
-📚 Tenho interesse e conhecimentos básicos em desenvolvimento front-end (Js, Html5, Css e React), back-end (PostgresSQL, MongoDB e Javascript + NodeJS, Java), mobile (React Native + Android Studio) e também gosto bastante de Análise de Dados.  
+📚 Em busca da minha primeira oportunidade como desenvolvedor, estou aberto a vagas para estágio, trainee ou desenvolvedor júnior. Adoro novos desafios, e meus repositórios mostram projetos que desenvolvi durante a faculdade e em cursos online.  
 <div align="center">
   <a href="https://github.com/guuisouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guuisouza&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
