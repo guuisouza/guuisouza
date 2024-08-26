@@ -1,7 +1,7 @@
 ## Olá! Me chamo Guilherme Souza e seja bem vindo ao meu GitHub
 
 📚 Graduado em Analise e Desenvolvimento de Sistemas e atualmente cursando Desenvolvimento de Software Multiplataforma.    
-📚 Em busca da minha primeira oportunidade como desenvolvedor, estou aberto a vagas para estágio, trainee ou desenvolvedor júnior. Adoro novos desafios, e meus repositórios mostram projetos que desenvolvi durante a faculdade e em cursos online.  
+📚 Estágiario Back-end (JavaScript/TypeScript, NodeJS)
 <div align="center">
   <a href="https://github.com/guuisouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guuisouza&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
