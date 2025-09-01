@@ -1,15 +1,17 @@
-## Olá! Me chamo Guilherme Dilio de Souza e seja bem vindo ao meu GitHub
+## Hello! I’m Guilherme Dilio de Souza — welcome to my GitHub
 
-Sou graduado em Analise e Desenvolvimento de Sistemas (2023) e atualmente curso Desenvolvimento de Software Multiplataforma na FATEC Franca, gosto muito da área de tecnologia e estou constantemente em busca de mais conhecimentos e habilidades para aprimorar meu perfil como desenvolvedor.  
-Sinta-se livre para explorar meus trabalhos acadêmicos, projetos, clonar repositórios e contribuir com novas ideias e melhorias.
+I hold a degree in Systems Analysis and Development (2023) and I’m currently pursuing a second degree in Multiplatform Software Development at FATEC Franca.  
+Technology is my passion, and I’m constantly seeking new knowledge and skills to grow as a developer.  
 
-💌 Contate-me aqui: ⤵️  
+Here you’ll find my academic work, personal projects, and experiments — feel free to explore, fork repositories, and contribute with ideas or improvements.  
+
+💌 Let’s connect: ⤵️  
   <a href="https://www.linkedin.com/in/guilherme-souza-579267250/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white"  title="LinkedIn - Guilherme Souza"/></a>
   <a href="mailto:guilhermedilio2003@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"  title="Gmail - Guilherme Souza"/></a>
 
-## 💻 Algumas técnologias com que já trabalhei:
+## 💻 Tools & Technologies I’ve used:
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -24,7 +26,7 @@ Sinta-se livre para explorar meus trabalhos acadêmicos, projetos, clonar reposi
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
 </p>
 
-## <b>📜 Certificado AWS Cloud Practitioner (08/01/2025) </b>
+## <b>📜 Certified AWS Cloud Practitioner (08/01/2025) </b>
 <div>
 
   [<img align="left" width="94px" alt="AWS" src="https://github.com/user-attachments/assets/4b875caa-64bc-4d5f-9263-8904fc982b00"/>](#)
